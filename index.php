@@ -1,4 +1,5 @@
-<?php include 'php/links.php' ?>
+<?php include_once ("./index.html"); ?>
+<?php include 'php/links.php'; ?>
 <!DOCTYPE html>
 <html>
 
